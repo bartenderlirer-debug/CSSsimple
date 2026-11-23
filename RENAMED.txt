@@ -1,0 +1,13 @@
+Hello World
+
+SHORTCUTS:
+Ctrl S: save
+Ctrl c: copy
+Ctrl v: paste
+Ctrl x: cut
+Ctrl d: multi-selection
+Ctrl z: coming back (dall'ultima modifica dalla multiselezione
+) ci fa annullare le ultime operazioni fatte
+Ctrl a: global selection
+Ctrl j: open CLI (command line interface)
+Ctrl ù: comment

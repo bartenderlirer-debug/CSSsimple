@@ -1,0 +1,15 @@
+
+.logonapoli {width: 300px; height: 150px;}
+.tortano {width: 300px; height: 150px;}
+.pizza {width: 300px; height: 150px;}
+.pasta {width: 300px; height: 150px;}
+div h3 {font-size: 16px; color: #9eff66; text-align: center;}
+ .card01 {background-color: #2e8d94; padding: 5px; border-radius: 5px;}
+ .card02 {background-color: #05575a; padding: 5px; border-radius: 5px;}
+ .card03 {background-color: #99acad; padding: 5px; border-radius: 5px;}  
+h1 {font-family: 'Arial', sans-serif; font-size: 30px; color: #998305; text-align: center; margin-top: 00px;}
+.card01 p, .card02 p, .card03 p {font-family: 'monospace', sans-serif; font-size: 14px; color: #da2020; text-align: center; margin-top: 0px;}
+.card01:hover {background-color: #da5e5e; transition: background-color 0.3s ease;}
+.card02:hover {background-color: #da5e5e; transition: background-color 0.3s ease;}
+.card03:hover {background-color: #da5e5e; transition: background-color 0.3s ease;}
+header {background-image: url('./sfondo01.jpg'); background-size: cover; background-position: center; padding: 20px; text-align: center;}
